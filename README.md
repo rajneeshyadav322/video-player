@@ -17,3 +17,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 - src/context - contains context of application
 - src/utils - for constants or helper funtions
 - src/views - for pages in application
+
+#### Link - https://rajneeshyadav322.github.io/video-player/
