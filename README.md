@@ -2,14 +2,16 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+#### Link - https://rajneeshyadav322.github.io/video-player/
+
 ### Installation
-  npm i 
+  npm install 
 
 ### Server Start
   npm run dev
 
 ### Libraries used
-- React Beautiful Dnd - For reordering of videos in playlist
+- React Beautiful Dnd - For reordering of videos in playlist through drag and drop
 - Tailwind - For Styling and responsiveness
 
 ### Folder Structure
@@ -18,4 +20,3 @@ This template provides a minimal setup to get React working in Vite with HMR and
 - src/utils - for constants or helper funtions
 - src/views - for pages in application
 
-#### Link - https://rajneeshyadav322.github.io/video-player/
